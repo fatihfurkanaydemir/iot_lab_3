@@ -31,9 +31,11 @@ it requires socket communication. GET and POST requests doesn't
 work in this version.
 
 Level 25:
-![wspage1](https://user-images.githubusercontent.com/31140894/167370664-19cf86ef-8afe-4bfb-9e34-033b9b720e3d.png)
+
+![wspage2](https://user-images.githubusercontent.com/31140894/167371035-295aed3a-4c3c-4aa3-a11b-2ae2712ec64a.png)
 ![ws25](https://user-images.githubusercontent.com/31140894/167370686-2ee31fdd-715e-4d4c-baf2-74270a10e796.jpeg)
 
 Level 100:
-![wspage2](https://user-images.githubusercontent.com/31140894/167370697-221c1aa8-074d-4d6d-b1b2-f121b6ac3b36.png)
+
+![wspage1](https://user-images.githubusercontent.com/31140894/167371015-4c09f6ea-bfdd-4885-a9c3-cd5dd052c60e.png)
 ![ws100](https://user-images.githubusercontent.com/31140894/167370713-b0698575-9656-4e87-a861-1332c6c0e81f.jpeg)
